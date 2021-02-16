@@ -14,3 +14,4 @@
 - git push remotename branchname
 - git pull remotename branchname
 - git status
+## 17/202
